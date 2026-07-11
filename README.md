@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jeevan841&label=Profile%20views&color=39d353&style=flat" alt="jeevan841" />
-  <img src="https://img.shields.io/github/followers/jeevan841?label=Followers&style=flat&color=39d353" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=pallejeevan24&label=Profile%20views&color=39d353&style=flat" alt="pallejeevan24" />
+  <img src="https://img.shields.io/github/followers/pallejeevan24?label=Followers&style=flat&color=39d353" alt="followers" />
 </p>
 
 <p align="center">
@@ -44,13 +44,13 @@
   <tbody>
     <tr>
       <td style="padding: 20px; text-align: center;">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevan841&theme=github_dark">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeevan841&theme=github_dark" style="width: 24.5em; height: 14em; object-fit: contain;" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallejeevan24&theme=github_dark">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallejeevan24&theme=github_dark" style="width: 24.5em; height: 14em; object-fit: contain;" />
         </a>
       </td>
       <td style="padding: 20px; text-align: center;">
-        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=jeevan841&show_icons=true&locale=en">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeevan841&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=pallejeevan24&show_icons=true&locale=en">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallejeevan24&theme=github_dark" alt="GitHub Stats" style="width: 100%; height: 14em; object-fit: contain;" />
         </a>
       </td>
     </tr>
@@ -71,7 +71,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan841&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallejeevan24&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
