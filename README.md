@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://twitter.com/jeevany612" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/palle-jeevan-yadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://holopin.io/@jeevan841" target="_blank"><img src="https://img.shields.io/badge/Holopin-View%20Badges-39d353?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=" alt="Holopin" height="28" /></a>
+  <a href="https://holopin.io/@pallejeevan24" target="_blank"><img src="https://img.shields.io/badge/Holopin-View%20Badges-39d353?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=" alt="Holopin" height="28" /></a>
 </p>
 
 ---
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td colspan="2" style="padding: 20px; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevan841&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pallejeevan24&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
       </td>
     </tr>
   </tbody>
@@ -81,6 +81,6 @@
 </p>
 
 <!---
-jeevan841/jeevan841 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pallejeevan24/pallejeevan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
