@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://twitter.com/jeevany612" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/palle-jeevan-yadav" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://holopin.io/@pallejeevan24" target="_blank"><img src="https://img.shields.io/badge/Holopin-View%20Badges-39d353?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=" alt="Holopin" height="28" /></a>
+  <a href="https://holopin.io/@jeevan841" target="_blank"><img src="https://img.shields.io/badge/Holopin-View%20Badges-39d353?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciLz4=" alt="Holopin" height="28" /></a>
 </p>
 
 ---
